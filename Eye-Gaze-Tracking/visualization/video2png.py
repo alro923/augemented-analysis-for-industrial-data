@@ -26,7 +26,6 @@ def parse_args():
 
 def save_frames(args, fname):
     fps = args.fps
-    #save = args.save 
     num = args.number
 
     video_name = (fname.split('/')[-1]).split('.')[0]

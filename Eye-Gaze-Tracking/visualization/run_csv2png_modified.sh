@@ -1,1 +1,1 @@
-# python3 arff2png.py --arff-folder 'data1/outputs/output2' --png-folder 'results1/result2/png' --img-folder 'original1'
+python3 arff2png.py --arff-folder 'data1/outputs/output2' --png-folder 'results1/result2/png' --img-folder 'original1'
